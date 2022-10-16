@@ -50,7 +50,7 @@ b. Disease labels (required)
 | ...             | ...    | ...    | ...      | ...    |
 | Sample_N        | 1      | 1      | ...      | 0      |
 
-c. Host variables (optional, but suggested)
+c. Host variables (optional, but recommended)
 | **SampleID** | **age**  | **bmi**| **...**| **variable_x**|
 | ---------- | --------- | --------- | --------- | --------- |
 | Sample_1      | 5      | 2      | ...      | 1      |
