@@ -26,11 +26,12 @@ Meta-Spec is a microbiome multi-label disease classification tool based on expla
 sh init.sh
 ```
 Then all tools are located at ‘bin’ folder:
+```
 meta_spec_train.py // For model training
 meta_spec_test.py // For disease prediction
 meta_spec_imp.py // To add Meta-Spec Importance (MSI) in a model
 meta_spec_get_msi.py // To calculate Meta-Spec Importance (MSI)
-
+```
 ## Model training
 To train Meta-Spec model, two files are required as input including microbial features (e.g. ASV, OTU, species, gene, etc.) and diseases labels. Host variables (e.g. age, BMI, etc.) are optional, which can largely improve the overall performance. 
 a. Microbial features (required)
