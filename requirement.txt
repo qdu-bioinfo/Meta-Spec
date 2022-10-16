@@ -1,0 +1,4 @@
+torch==1.9.0+cu111
+deepctr-torch==0.2.7
+shap==0.35.0
+
