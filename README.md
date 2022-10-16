@@ -56,7 +56,7 @@ c. Host variables (optional, but recommended)
 | Sample_1      | 5      | 2      | ...      | 1      |
 | Sample_2      | 2      | 1      | ...      | 0      |
 | ...           | ...    | ...    | ...      | ...    |
-| Sample_3      | 7      | 3      | ...      | 1      |
+| Sample_N      | 7      | 3      | ...      | 1      |
 
 You can assign microbial features, diseases label and host variables by '--microbe' ,'--label' and '--host', respectively. In addition, you can specify the output path of model '--o'. We set an example dataset in ‘data’ folder for quick start. To train a Meta-Spec model: 
 ```
